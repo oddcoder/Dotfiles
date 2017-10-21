@@ -1,0 +1,8 @@
+eco solarized
+
+e scr.utf8 = true
+e scr.utf8.curvy = true
+e cfg.fortunes = false
+e asm.cmtright=true
+e graph.cmtright=true
+e asm.varsub_only=false
